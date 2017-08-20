@@ -1,0 +1,9 @@
+/** {
+  background-color: #eee;
+}*/
+
+.container {
+  background-image: url(logo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
